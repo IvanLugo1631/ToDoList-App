@@ -1,5 +1,5 @@
 ---
-Viralco
+Terrific
 ---
 
 To Do List App is a task management application that allows users to manage their daily activities. With this application, users can add, delete, update, and view their tasks. Currently, after updating a task, the page must be refreshed to display the changes. A future version will remove this limitation.
