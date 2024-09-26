@@ -17,12 +17,12 @@ To Do List App is a task management application that allows users to manage thei
 ---
 Introduction
 ---
+
 To do list App is designed to help users organize and manage their daily tasks efficiently. You can create tasks, update task details, and remove tasks you’ve completed or no longer need. Currently, after making updates to tasks, the browser must be refreshed to see the changes. A new version is in development to eliminate the need for manual refreshes.
+Make sure you have the following installed:
 ---
 Installation
 ---
-Make sure you have the following installed:
-
 - Node.js v20.x.x
 - npm v10.x.x
 
