@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "DANGEROUSLY_DISABLE_HOST_CHECK=true react-scripts start",
+    "start": "DANGEROUSLY_DISABLE_HOST_CHECK=false react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -36,6 +36,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy":" http://192.168.0.155:3000"
+  "proxy":"http://localhost:8080"
 
 }
